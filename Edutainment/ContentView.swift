@@ -15,7 +15,7 @@ struct ContentView: View {
             {
                 Text("Which ")
             }
-            .navigationTitle("Edutainment")
+            .navigationTitle("Edutainment!")
         }
         .ignoresSafeArea()
         
